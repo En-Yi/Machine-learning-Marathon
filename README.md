@@ -1,2 +1,2 @@
 # Machine-learning-Marathon
-HW
+This is the HW submission repository.
